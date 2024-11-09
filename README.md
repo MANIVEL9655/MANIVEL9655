@@ -16,7 +16,7 @@ I'm <strong>Manivel R </strong>, pursuing my <u>BE</u> in Computer Science Engin
 
 <img src="./coding.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Linkedin](www.linkedin.com/in/MANIVEL-R)**
+- 🙋‍♂️ All about me.
 
 - 🔭 I’m currently working on `Machine Learning Projects`.
 
