@@ -37,7 +37,7 @@ I'm <strong>Manivel R </strong>, pursuing my <u>BE</u> in Computer Science Engin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,mysql,c,java,git,github,githubactions,visualstudio,html,css,nodejs,pycharm,pytorch,anaconda,react,mongodb,sqlite,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,flask,mysql,c,java,git,github,githubactions,visualstudio,html,css,nodejs,pycharm,pytorch,anaconda,react,mongodb,sqlite&perline=10" />
   </a>
 </p>
 
